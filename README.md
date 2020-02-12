@@ -1,6 +1,11 @@
 # -SEECURE-APP
 
-点击Seecure文件下载即可安装到手机上运行。
+下载方式：
+1.点击蓝色的View code
+
+2.点击Seecure.apk文件
+
+3.点击Download即可下载安装
 
 灵感来自在微博看到的一个计算机仿真程序。花了两天的时间制作本App，
 
